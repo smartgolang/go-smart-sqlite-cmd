@@ -15,5 +15,5 @@
 
 main
 my.db
-./gosmartsqlitecmd
+gosmartsqlitecmd
 bld.bash
