@@ -36,7 +36,7 @@ func main() {
 					LastName := os.Args[3]
 					Email := os.Args[4]
 
-					var newPerson Person
+					var newPerson gosmartsqlite.Person
 					newPerson.FirstName = FirstName
 					newPerson.LastName = LastName
 					newPerson.Email = Email
