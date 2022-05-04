@@ -1,0 +1,4 @@
+github.com/mattn/go-sqlite3 v1.14.12 h1:TJ1bhYJPV44phC+IMu1u2K/i5RriLTPe+yc68XDJ1Z0=
+github.com/mattn/go-sqlite3 v1.14.12/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
+github.com/smartgolang/gosmartsqlite v0.0.0-20220504172102-8ad68fb3e735 h1:MNJOuHsN0UGWm5sHV5qkBv6ABMSi28A6erwQHidcgzo=
+github.com/smartgolang/gosmartsqlite v0.0.0-20220504172102-8ad68fb3e735/go.mod h1:fHvkj6P+ibRwwSITVmsFn+ShxV7auXzLUwo6uzwqC+s=
