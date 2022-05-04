@@ -14,5 +14,5 @@
 # *.out
 
 main
-gosmartsqlitecmd
+./gosmartsqlitecmd
 bld.bash
