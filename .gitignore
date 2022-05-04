@@ -14,5 +14,6 @@
 # *.out
 
 main
+mydb
 ./gosmartsqlitecmd
 bld.bash
