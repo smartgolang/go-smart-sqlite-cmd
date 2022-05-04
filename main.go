@@ -19,7 +19,7 @@ func main() {
 
 		fmt.Println(os.Args[0], "-Upsert"+" Constantine Vassil Constantine@Vassil.com", "")
 		fmt.Println(os.Args[0], "-Search"+" Constantine", "")
-		fmt.Println(os.Args[0], "-Delete"+"  Constantine", "")
+		fmt.Println(os.Args[0], "-Delete"+" Constantine", "")
 		fmt.Println(os.Args[0], "-List"+"  ", "")
 
 	} else {
