@@ -1,4 +1,4 @@
-# go-smart-sqlite
+# go-smart-sqlite-cmd
 
 Command line interface for SQLite using Golang
 
